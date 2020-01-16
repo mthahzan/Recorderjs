@@ -2,7 +2,7 @@
 
 ## A module for recording/exporting the output of Web Audio API nodes
 
-##Installation
+## Installation
 
 Install with npm, consume with [browserify](https://github.com/substack/node-browserify).
 
